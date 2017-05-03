@@ -6,3 +6,4 @@ d = ' * New York * '
 print(c)
 print(c* a)
 print (d* 6)
+print (c+d)
