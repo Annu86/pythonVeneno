@@ -7,7 +7,7 @@ from sys import argv
 #holds the arguement you pass to your python script whenever you run it
 
 #it unpacks the arguments
-script, first, second, third = argv
+script,first,second,third = argv
 
 
 print("The script is called : " + script)
